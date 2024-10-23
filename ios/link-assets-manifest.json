@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/ArialCE.ttf",
+      "sha1": "f78257e5b1fd556dbaf87052a48f9211123a4aef"
+    },
+    {
+      "path": "src/assets/fonts/CherryCreamSoda-Regular.ttf",
+      "sha1": "e035784f21804ca7ab9e006d65d19fc48e1f93c6"
+    },
+    {
+      "path": "src/assets/fonts/ScriptMTBold.ttf",
+      "sha1": "34ea4bedbd303d1c09d042698d9f7098a318e1e4"
+    }
+  ]
+}

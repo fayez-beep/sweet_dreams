@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>178952081501-16cti1h08h7sc7o7jeu7o2d894lttfpv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.178952081501-16cti1h08h7sc7o7jeu7o2d894lttfpv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>178952081501-q8tstb606ub8flp6u9oqni5j1v1dudt5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8Q_xC52nOCGMftCiMNqbb5aaEcQkLRFA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>178952081501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appsnado.sweetdreamz</string>
+	<key>PROJECT_ID</key>
+	<string>sweet-dreamzz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sweet-dreamzz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:178952081501:ios:e070cd373d0a815fddbdb4</string>
+</dict>
+</plist>

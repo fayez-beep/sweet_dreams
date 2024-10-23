@@ -1,0 +1,626 @@
+{
+  "project_info": {
+    "project_number": "444368355777",
+    "project_id": "fir-demo-application-appsnado",
+    "storage_bucket": "fir-demo-application-appsnado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:74e9c32487e557a86d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.background.sound.library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-n9gmc07cp46e0qbmf1eg0pm64d7k7jci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.background.sound.library",
+            "certificate_hash": "9b7bb2b2bbabaf87de5d7aae69fde5ce6cd5ec0a"
+          }
+        },
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:6d5cdcb466f28a196d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-2hqf2eqqnvltsgte5go0m1n635c9o7i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "483a8d2fc7becb59a1f757672d9271de49c9aeda"
+          }
+        },
+        {
+          "client_id": "444368355777-3hek92352dullr2hdooanocou0hrpna2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "8048cd621093fab395cbb7379bb3c52b92629b1f"
+          }
+        },
+        {
+          "client_id": "444368355777-8o7s8leisphf99ffg0qa7o9b7tot1s93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "444368355777-gu8ebfv9v5bllv9tlc6v7iifuohegdii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "526b77cdbb1b8d5d9732efd7692cacffca2f6034"
+          }
+        },
+        {
+          "client_id": "444368355777-l06cp8qmiq3mfm5acnpv90a88nk4tcic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "0a7abc2b6e580c0e9fc80dc0794daa7a1bb319fe"
+          }
+        },
+        {
+          "client_id": "444368355777-n1tbvkh9oj1gh2fd98iishli2q1jojvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "738c0827ab045c8fc3262846e3ebce6de61ebe4f"
+          }
+        },
+        {
+          "client_id": "444368355777-n5jrrho0gitstfjql7unbfedbb91rpg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "b5a3f4776a970d89a044adced15b1bb6a917dd0a"
+          }
+        },
+        {
+          "client_id": "444368355777-n82sdictpncuu15cjhqs36andie6rmqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "1a9fd99d9e77b3ac86ba6bbded7afac047a19050"
+          }
+        },
+        {
+          "client_id": "444368355777-o64brn4ong4657ttsbpjg5hfnpi9pp5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "09608e298a102c35babb377111368b0e08fe1a91"
+          }
+        },
+        {
+          "client_id": "444368355777-pm2gf8beha0tl25hkh3ean51oepqgkf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "6f246aa033a893a8e64f15b4a5d579db4d592002"
+          }
+        },
+        {
+          "client_id": "444368355777-qi95gc3iaspn97kl6opdjfrqv3j20932.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "60b08503935d75edd370bf776d255a6c1b32f870"
+          }
+        },
+        {
+          "client_id": "444368355777-rmsqdrej0fl688ablpbg5vhn2ebr3s9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "29d661af4051e500c045ef4c5affd29822e726c6"
+          }
+        },
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:4988d0e292ab27ad6d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.findnseek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:0175a428ce8299de6d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.fuel.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:d75a359d532b8c9b6d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.honour.the.brave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-73rrqfr8ssa7t6e6uitf4v32tckgiu35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.honour.the.brave",
+            "certificate_hash": "8422e9fb6c38c6dda79ddcceb17343e27c2da427"
+          }
+        },
+        {
+          "client_id": "444368355777-kpama8km2rpgu6d8m6sh7k0jvf7ljqmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.honour.the.brave",
+            "certificate_hash": "29d661af4051e500c045ef4c5affd29822e726c6"
+          }
+        },
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:6f952d6c15e53de36d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.multipoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-bjtlb5n7ponvjh4qjse25lo8v74cu1tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.multipoint",
+            "certificate_hash": "b5a3f4776a970d89a044adced15b1bb6a917dd0a"
+          }
+        },
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:d1434ffae3afc4e96d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.pet.pass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:abc695426195ac976d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.receipt.share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:566f053584c8f7a66d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.runback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-0bcohtgui1rreaqa1jsd78rji6sc81go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.runback",
+            "certificate_hash": "8048cd621093fab395cbb7379bb3c52b92629b1f"
+          }
+        },
+        {
+          "client_id": "444368355777-3td9drrg8i1qbmvsjufk7th2tq5uffdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.runback",
+            "certificate_hash": "b5a3f4776a970d89a044adced15b1bb6a917dd0a"
+          }
+        },
+        {
+          "client_id": "444368355777-q4340bjh79qbtn9k8gdtfad3su5t3sqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.runback",
+            "certificate_hash": "89639a984fb2e873cc8af91bff7f6e3476f3f0c3"
+          }
+        },
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:1a8ef1f9a57e2ad76d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.toothferri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-34rc1lkmdpf21o4kmiicapr473ssp486.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.toothferri",
+            "certificate_hash": "6f246aa033a893a8e64f15b4a5d579db4d592002"
+          }
+        },
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:f0e02fa328e7e4356d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.youworx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-3q1k8v5mp7jf4cvmkd0cvssr8l8j7eq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.youworx",
+            "certificate_hash": "8422e9fb6c38c6dda79ddcceb17343e27c2da427"
+          }
+        },
+        {
+          "client_id": "444368355777-brt1pqlsi4fdutcgu3e6jebuv050abu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.youworx",
+            "certificate_hash": "b5a3f4776a970d89a044adced15b1bb6a917dd0a"
+          }
+        },
+        {
+          "client_id": "444368355777-k9aqkke3jf5nbu29okori1s2c6o0etsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.youworx",
+            "certificate_hash": "526b77cdbb1b8d5d9732efd7692cacffca2f6034"
+          }
+        },
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:fa274afae74a46746d6f40",
+        "android_client_info": {
+          "package_name": "com.celect.uh.huh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-178ls0vjijorekgeng35o9jnbs9j9ns8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.youworx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
