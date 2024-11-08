@@ -142,7 +142,7 @@ const App = () => {
 
   return (
     <Wrapper>
-      <StripeProvider publishableKey="pk_test_51Q2Xu4CHsLZSnNQo5FV27D4LKbnvWR083g9qnpFD1S8Gsm2rCoykfBTECVSuMaYkiAX8PzXWNLMkEh2U0XuH58bW00asSx3q5R">
+      <StripeProvider publishableKey="">
       <GestureHandlerRootView
         style={[styles.container, styles.containerWhiteBackground]}>
         <StatusBar
