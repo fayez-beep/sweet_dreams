@@ -46,6 +46,9 @@ export const colors = {
   t2:'rgb(213,102,103)',
   t3:'rgb(212,115,29)',
   t4:'rgb(95,110,175)',
+  redeemBorder:'#707070',
+  redeemText:'#F2A32A',
+  redeemed:'#C6C6C6',
 
 
   textColor:'#F1F1F1'

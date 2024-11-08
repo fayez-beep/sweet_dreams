@@ -12,7 +12,7 @@ const UserAppStack = () => {
         headerShown: false,
         drawerType: 'front',
         drawerStyle: {
-          width: '80%',
+          width: '90%',
           backgroundColor: 'transparent',
         },
       }}

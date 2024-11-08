@@ -4,9 +4,9 @@ import store from '../redux';
 
 // export const BASE_URL = 'https://server.appsstaging.com:3017/api/v1/';
 export const BASE_URL =
-  'https://server1.appsstaging.com/3148/sweet_dreams/public/api/';
+  'https://server1.appsstaging.com/3559/sweet_dreams/public/api/';
 export const ASSETS_URL =
-  'https://server1.appsstaging.com/3148/sweet_dreams/public/storage/';
+  'https://server1.appsstaging.com/3559/sweet_dreams/public/storage/';
 export const WEB_SOCKET_URL = 'https://server1.appsstaging.com:3087/';
 // export const BASE_URL = "http://10.0.4.71:3018/api/v1/"; //local
 // export const ASSETS_URL = "http://10.0.4.71:3018/"; //local
@@ -332,6 +332,8 @@ export const BUY_SUBSCRIPTION = {
   access_token_required: true,
   type: REQUEST_TYPE.POST,
 };
+
+
 
 export const callRequest = function (
   url,

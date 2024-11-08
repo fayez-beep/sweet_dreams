@@ -15,6 +15,19 @@ export const appImages = {
   subs1: require('../assets/image/Path1.png'),
   subs2: require('../assets/image/Path2.png'),
   twocloud: require('../assets/image/twocloud.jpg'),
+  redeem1: require('../assets/image/redeem1.png'),
+  redeem2: require('../assets/image/redeem2.png'),
+  redeem3: require('../assets/image/redeem3.png'),
+  redeem4: require('../assets/image/redeem4.png'),
+  redeem5: require('../assets/image/redeem5.png'),
+  redeem6: require('../assets/image/redeem6.png'),
+  redeem7: require('../assets/image/redeem7.png'),
+  redeem8: require('../assets/image/redeem8.png'),
+  redeem9: require('../assets/image/redeem9.png'),
+  redeem10: require('../assets/image/redeem10.png'),
+  redeem11: require('../assets/image/redeem11.png'),
+  redeem12: require('../assets/image/redeem12.png'),
+
 };
 export const appIcons = {
   u1: require('../assets/icons/u1.png'),
@@ -121,5 +134,6 @@ export const appIcons = {
   borderSun: require('../assets/icons/bordersunn.png'),
   dayy: require('../assets/icons/dayy.png'),
   hearteye: require('../assets/icons/eye_heart.png'),
+  coins: require('../assets/icons/coins.png')
   // hearteye: require('../assets/icons/eye_heart.png'),
 };

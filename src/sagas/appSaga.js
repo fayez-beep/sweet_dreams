@@ -150,6 +150,7 @@ function* viewPost() {
         responseCallback(response);
       } else {
         Util.DialogAlert(response.message);
+        console.log('ERROR_VIEW_POSRT: ', response.message)
       }
     } catch (error) {
       console.log('error view post =>', error);
@@ -837,6 +838,9 @@ function* updateRequest() {
     }
   }
 }
+
+
+
 
 export default function* root() {
   yield fork(postDream);

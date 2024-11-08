@@ -289,6 +289,23 @@ class Drawer extends Component {
               </Text>
             </TouchableOpacity>
           </View>
+          <TouchableOpacity
+            style={{ alignSelf:'flex-end', flexDirection:'row'}}
+            onPress={()=>{
+              NavService.navigate('RedeemPoints')
+            }}
+          >
+            <Image
+              source={appIcons.coins}
+              style={{
+                width:20,
+                height:20,
+                resizeMode:'contain',
+                marginRight:3
+              }}
+            />
+            <Text style={{fontSize:14}}>500</Text>
+          </TouchableOpacity>
         </View>
         <View style={{flex: 1, marginTop: 10, width: '100%'}}>
           <FlatList

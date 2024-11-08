@@ -25,6 +25,8 @@ import PostDream from '../../screens/Main/PostDream/PostDream';
 import Like from '../../screens/Main/Like/Like';
 import Filter from '../../screens/Main/Filter/Filter';
 import SavePost from '../../screens/Main/SavePost/SavePost';
+import RedeemPoints from '../../screens/Main/RedeemPoints/RedeemPoints.js';
+import PurchaseSticker from '../../screens/Main/PurchaseSticker/PurchaseSticker.js';
 
 const Stack = createNativeStackNavigator();
 
@@ -63,6 +65,8 @@ const AppNavigation = ({initialRoute}) => {
         component={Filter}
       />
       <Stack.Screen name="SavePost" component={SavePost} />
+      <Stack.Screen name="RedeemPoints" component={RedeemPoints} />
+      <Stack.Screen name="PurchaseSticker" component={PurchaseSticker} />
     </Stack.Navigator>
   );
 };

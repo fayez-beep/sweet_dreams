@@ -32,6 +32,7 @@ import i18n from './src/helpers/i18n';
 import {WEB_SOCKET_URL} from './src/config/WebService';
 import {io} from 'socket.io-client';
 import {saveSocket} from './src/redux/actions/appAction';
+import { StripeProvider } from '@stripe/stripe-react-native';
 
 const {width} = Dimensions.get('screen');
 // ignore warnings
@@ -141,6 +142,7 @@ const App = () => {
 
   return (
     <Wrapper>
+      <StripeProvider publishableKey="pk_test_51Q2Xu4CHsLZSnNQo5FV27D4LKbnvWR083g9qnpFD1S8Gsm2rCoykfBTECVSuMaYkiAX8PzXWNLMkEh2U0XuH58bW00asSx3q5R">
       <GestureHandlerRootView
         style={[styles.container, styles.containerWhiteBackground]}>
         <StatusBar
@@ -158,6 +160,7 @@ const App = () => {
           </Provider>
         </I18nextProvider>
       </GestureHandlerRootView>
+      </StripeProvider>
     </Wrapper>
   );
 };
